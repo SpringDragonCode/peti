@@ -9,3 +9,5 @@ sistema de control de versiones confiable de archivos.
 3.git repository
 
 ##añadiendo un bloque mientras esta en la staged zone
+
+## esta linea fue grabada en la rama master al bifurcar
